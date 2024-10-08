@@ -6,3 +6,10 @@ this is new file
  printf("This is the first commit");
  }
 
+ //this is by developer 2
+ #include<stio.h>
+ {
+   printf("this is dev2);
+   }
+
+
